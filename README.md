@@ -5,6 +5,6 @@ I created only another version for own needs. This version edited rrdFlotMatrix 
 
 This version also translates months into czech language and transforms timezone into +1.
 
-I upload this here, because I think it could be useful for someone.
+I upload my edited code here, because I think it could be useful for someone.
 
 ![GitHub Logo](/images/transformation.jpg)
